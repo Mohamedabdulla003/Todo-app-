@@ -55,8 +55,6 @@
 ###
 
 <img
-  style="border: 1px solid rgba(100, 100, 100, 1); border-radius: 4px; box-shadow: 0px 0px 39px 14px rgba(255, 255, 255, 1);"
-  align="left"
   src="https://github.com/Mohamedabdulla003/Todo-app-"
 />
 
