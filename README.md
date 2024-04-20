@@ -48,14 +48,5 @@
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
 
-###
-
-<h2 align="left">Screen shoot</h2>
-
-###
-
-<img
-  src="https://github.com/Mohamedabdulla003/Todo-app-"
-/>
 
 ###
